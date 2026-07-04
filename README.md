@@ -488,7 +488,7 @@ Extension]
 - [Cristian Barreiro](https://cristianbarreiro.github.io)
 - [Cristian Cezar Moisés](https://ccm.securityops.com.br)
 - [Cristiano Filho](https://cristianofilho.github.io)
-- [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer | .Net/Angular]
+- [Cristopher Coronado Moreira](https://cristopher-coronado-portfolio.vercel.app/?utm_source=github&utm_medium=repository&utm_campaign=developer-portfolios) [Full Stack Developer |.Net/Angular]
 - [Cui Ding](https://cuierd.github.io)
 - [Cyril Aguvasu Kedeng'E](https://cyrilaguvasu.tech)
 
@@ -578,7 +578,7 @@ Extension]
 - [Dipanshu Singh](https://dipanshusingh.vercel.app) [Full Stack · AI Engineer]
 - [Dipin Yadav](https://dipin-yadav.github.io/dipin/) [Software Engineer | Backend Engineering & Cloud]
 - [Ditom Baroi Antu](https://xtditom.github.io) [Web Developer | Open-Source Contributor]
-- [Divij Shrivastava](https://divij.tech)[Full Stack . Web Developer]
+- [Divij Shrivastava](https://divij.tech)[Full Stack. Web Developer]
 - [Divyansh Kathuria](https://divyanshkathuria.netlify.app)
 - [Divyasree](https://portfolio-vert-one-18.vercel.app) [Full Stack Developer]
 - [Dongsub Kim](https://dongsubkim.com) [Full Stack Developer]
@@ -627,7 +627,7 @@ Extension]
 - [Esteban Mansart](https://mansartesteban.vercel.app)
 - [Ethan Lanting](https://ethanlanting.dev/#home) [Developer, Designer, And Creator]
 - [Evandro Antônio Da Costa De Paula](https://eacp.dev) [Software Engineer | Full Stack | Applied AI Engineer] - [GitHub](https://github.com/eacpaula)
-- [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer — Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
+- [Evangelos Pappas](https://hyperautomation.substack.com) [Distributed Systems Engineer: Data & AI Platforms, MLOps, SRE] - [GitHub](https://github.com/epappas)
 - [Eyad Ahmed](https://fezex.vercel.app) [Full Stack Web Engineer]
 - [Ezekiel Ekunola](https://ezekielekunola.com)
 
@@ -830,7 +830,7 @@ Extension]
 - [Jatin Kevlani](https://jatin-kevlani.vercel.app) [Full Stack Developer | AI/ML Enginner | IoT Engineer]
 - [Jatin Sharma](http://j471n.in)
 - [Jatin Tekam](https://jatin-tekam.netlify.app)
-- [Jatin](https://jating07925.vercel.app) [Full Stack Developer | .Net + React]
+- [Jatin](https://jating07925.vercel.app) [Full Stack Developer |.Net + React]
 - [Jay Bhavsar](https://jay.is-savvy.dev)
 - [Jay Gaha](https://jaygaha.com.np) [Full Stack Developer]
 - [Jay Keraliya](https://jaykeraliya.com)
@@ -971,8 +971,8 @@ Extension]
 
 ## L
 
--  [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
--  [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
+- [Lalith Kumar](https://lalith-d-portfolio.netlify.app) [ AI Engineer | Data Scientist | Machine Learning Engineer]
+- [Lalith](https://portfolic.vercel.app/lalithdabilpuram01) [ Data Scientist]
 - [Laercio Rios](https://laerciorios.com) [Full Stack Developer | Software Engineer]
 - [Lai Huishan](https://shan-verse.com) [Full Stack Developer | Master Student]
 - [Lakshan Rukantha](https://lakshanrukantha.github.io)
@@ -1062,7 +1062,7 @@ Extension]
 - [Marios Sofokleous](https://msof.me)
 - [Mariya Baig](https://mariyabaig.vercel.app)
 - [Mariya Jebastin](https://mariyajebastin.netlify.app) [Full Stack Developer]
-- [Mark Ernst](https://cyntax.dev) [Freelance Senior Full Stack Software Engineer at Cyntax | .NET/PHP/TS]
+- [Mark Ernst](https://cyntax.dev) [Freelance Senior Full Stack Software Engineer at Cyntax |.NET/PHP/TS]
 - [Marko Denic](https://markodenic.com)
 - [Markus Polzer](https://www.rapidtech1898.com)
 - [Marouane Rassili](https://mrassili.com)
@@ -1131,9 +1131,9 @@ Extension]
 - [Mohammad Ahmad](https://ahmad-netflix-portfolio-ujir.vercel.app) [Full Stack Developer]
 - [Mohammad Araf](https://araf-portfolio.vercel.app) [Software Developer]
 - [Mohammad Gauhar](https://www.iamgauhar.in) [Full Stack Engineer | Next.js & MERN]
-- [Mohammad Goli Khatir](https://github.com/mgolikhatir) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
+- [Mohammad Goli Khatir](https://github.com/mgolikhatir) [Software Engineer | Backend Developer |.Net, Python, Rest Api]
 - [Mohammad Haaris Iqubal](http://haarisiqubal.github.io)
-- [Mohammad Hadi Siavashi](https://mhsiavashi.com) [Software Engineer | Backend Developer | .Net, Python, Rest Api]
+- [Mohammad Hadi Siavashi](https://mhsiavashi.com) [Software Engineer | Backend Developer |.Net, Python, Rest Api]
 - [Mohammad Rahmani](https://afgprogrammer.com)
 - [Mohammad Siddique Sakib](https://ssakib-portfolio.vercel.app) [Frontend Developer | React, Nextjs, TypeScript]
 - [Mohammed Abdullah Khan](https://www.mohammedabdullahkhan.com) [React Native Developer | Full Stack Developer | Software Engineer]
@@ -1485,7 +1485,7 @@ Extension]
 - [Sagar Khurana](https://hellosagar.vercel.app)
 - [Sagar Mude](https://sagarmude.netlify.app)
 - [Sahib Hernández](https://www.presoftcore.com) [Software Engineer & Music Producer]
-- [Sahil Bajaj](https://sahilbajajportfolio.vercel.app) .[Full Stack Developer]
+- [Sahil Bajaj](https://sahilbajajportfolio.vercel.app).[Full Stack Developer]
 - [Sahil Bhatane](https://sahilbhatane.vercel.app) [Ai/Ml Engineer]
 - [Sahil Kapoor](https://sahilkapoor.com)
 - [Sahil Khan](https://sahil-site-chi.vercel.app) [Full Stack Developer]
@@ -1661,8 +1661,8 @@ Extension]
 - [Stefan Topalovic](https://www.stefantopalovic.com)
 - [Stephanie Lin](https://lin-stephanie.github.io)
 - [Stimmie](https://www.stimmie.dev) [Software Engineer | Next.js]
-- [Stimmie – web portfolio](https://web.stimmie.dev) [Freelance Developer | Nuxt]
-- [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS | .NET]
+- [Stimmie: web portfolio](https://web.stimmie.dev) [Freelance Developer | Nuxt]
+- [Stuart Blackler](https://codewithstu.tv) [Principal Software Engineer | AWS |.NET]
 - [Stéphane Chan Hiou Kong](https://www.chan-stephane.me)
 - [Subhajit Kar](https://next-portfolio-tan-ten.vercel.app) [Full Stack Developer]
 - [Subhan Nadeem](https://subhan-dev-portfolio.vercel.app)
@@ -1798,7 +1798,7 @@ Extension]
 - [Veerendra Dwivedi](https://veerendra-portfolio-seven.vercel.app) [ DevOps Engineer]
 - [Vertanzil](https://vertanzil.github.io)
 - [Vibhor Arya](https://vibhorarya12.vercel.app)
-- [Victor Vento](https://victorvento.net) [Software Developer | .NET and JavaScript]
+- [Victor Vento](https://victorvento.net) [Software Developer |.NET and JavaScript]
 - [Vidushan Chooriyakumaran](https://vidu.sh/an)
 - [Vighnesh Raut](https://vighnesh153.dev)
 - [Vignesh Devendran](https://vigneshdevendran.pages.dev) [Software Developer | Python, Full Stack JavaScript/TypeSript, Ruby on Rails | FLOSS Enthusiast]
