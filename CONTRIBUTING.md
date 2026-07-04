@@ -4,22 +4,22 @@
 2. Clone your new repository to your system.
 3. Create a new branch (i.e. `add/your-name`).
 4. Add your new site. Remember to add **alphabetically to the list.**
-    ### Format
+ ### Format
 
-    Add your portfolio entry in the following format:
-    
-    ```markdown
+ Add your portfolio entry in the following format:
+ 
+ ```markdown
     - [Your Name](portfolio-link) [Your Title | Your Expertise]
     ```
 
-    ### Example
+ ### Example
 
-    ```markdown
+ ```markdown
     - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
     ```
 
-    ### Result
-    - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
+ ### Result
+ - [Itachi Uchiha](https://naruto.fandom.com/wiki/Itachi_Uchiha) [Anbu Captain | Legend]
 
 5. Verify your submission meets the checklist below.
 6. Commit changes and push the new branch.
@@ -29,9 +29,9 @@
 
 Before opening a pull request, confirm each of the following:
 
-- [ ] I have opened my portfolio link in a browser and it loads correctly — it does **not** redirect to a domain parking/sale page or return an error.
+- [ ] I have opened my portfolio link in a browser and it loads correctly: it does **not** redirect to a domain parking/sale page or return an error.
 - [ ] My entry is added in **strict alphabetical order** by first name.
-- [ ] I have **not** edited `feed.json` — it is auto-generated and will be updated automatically.
+- [ ] I have **not** edited `feed.json`: it is auto-generated and will be updated automatically.
 
 > **Note on the automated link checker:** A scheduled workflow runs every Saturday to verify all links in the repo. Broken or parked links are flagged and removed. You can view a sample broken link report [here](https://github.com/emmabostian/developer-portfolios/issues/3696).
 
@@ -73,7 +73,7 @@ This will download the entire `Developer Portfolios` repo to your project's dire
 
 ### Setup Your Upstream
 
-1. Change directory to the new directory (`cd ./developer-portfolios`)
+1. Change directory to the new directory (`cd./developer-portfolios`)
 2. Add a remote to the original `Developer Portfolios` repo:
 
 ```shell
@@ -171,28 +171,28 @@ There are two methods of creating a pull request for 'Developer Portfolios':
 
 This is the recommended method. Read about [How to Setup and Maintain a Local Instance](#maintaining-your-fork).
 
-1.  Perform the maintenance step of rebasing `master`.
-2.  Ensure you are on the `master` branch using `git status`:
+1. Perform the maintenance step of rebasing `master`.
+2. Ensure you are on the `master` branch using `git status`:
 
-        $ git status
-        On branch master
-        Your branch is up-to-date with 'origin/master'.
+ $ git status
+ On branch master
+ Your branch is up-to-date with 'origin/master'.
 
-        nothing to commit, working directory clean
+ nothing to commit, working directory clean
 
-3.  If you are not on `master` or your working directory is not clean, resolve any outstanding files/commits and checkout `git checkout master`
+3. If you are not on `master` or your working directory is not clean, resolve any outstanding files/commits and checkout `git checkout master`
 
-4.  Create a branch off of `develop` with git: `git checkout -b add/your-name`
+4. Create a branch off of `develop` with git: `git checkout -b add/your-name`
 
-5.  Edit your file(s) locally with the editor of your choice.
+5. Edit your file(s) locally with the editor of your choice.
 
-6.  Check your `git status` to see unstaged files.
+6. Check your `git status` to see unstaged files.
 
-7.  Add your edited files: `git add path/to/filename.ext` You can also do: `git add .` to add all unstaged files. Take care, though, because you can accidentally add files you don't want to be added. Review your `git status` first.
+7. Add your edited files: `git add path/to/filename.ext` You can also do: `git add.` to add all unstaged files. Take care, though, because you can accidentally add files you don't want to be added. Review your `git status` first.
 
-8.  Make sure your new site is added **alphabetically** to the existing list.
+8. Make sure your new site is added **alphabetically** to the existing list.
 
-9.  Commit your edits. `git commit -m "your-commit-message"`
+9. Commit your edits. `git commit -m "your-commit-message"`
 
 Please make sure to write a commit message that summarizes the changes. If you find yourself in the need to use `and` it might be better to do two separate commits.
 
@@ -200,22 +200,22 @@ See [Useful Tips for writing better Git commit messages](https://code.likeagirl.
 
 As a note, use the present tense for your commit messages (i.e. `Add` instead of `Added`).
 
-10. If you would want to add/remove changes to the previous commit, add the files as in Step 5 earlier, and use `git commit --amend` or `git commit --amend --no-edit` (for keeping the same commit message).
+10. If you would want to add/remove changes to the previous commit, add the files as in Step 5 earlier, and use `git commit, amend` or `git commit, amend, no-edit` (for keeping the same commit message).
 
 11. Push your commits to your GitHub Fork: `git push origin add/your-name`
 
 12. Once the edits have been committed, you will be prompted to create a pull request on your fork's GitHub Page.
 
 13. By default, all pull requests should be against the `Developer Portfolios` main repo, `master` branch.
-    **Make sure that your Base Fork is set to developer-portfolios/master when raising a Pull Request.**
+ **Make sure that your Base Fork is set to developer-portfolios/master when raising a Pull Request.**
 
 14. Submit a pull request from your branch to the `Developer Portfolios` `master` branch.
 
 15. The title (also called the subject) of your PR should be descriptive of your changes and succinctly indicate what is being fixed.
 
-    - **Do not add the issue number in the PR title or commit message.**
+ - **Do not add the issue number in the PR title or commit message.**
 
-    - Examples: `Add site NAME`
+ - Examples: `Add site NAME`
 
 ### Next Steps
 
